@@ -1,6 +1,10 @@
 # Simple numeral system conversion
 
-### Supported systems are binary, hexagonal and decimal.
+### *Supported systems are binary, hexagonal and decimal.*
+
+## Installation:
+
+> composer require rafalswierczek/numeral-system
 
 ### **Possible methods are:**
 
