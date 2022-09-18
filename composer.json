@@ -1,0 +1,17 @@
+{
+    "name": "rafalswierczek/numeral-system",
+    "description": "Simple numeral system conversion",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafał Świerczek",
+            "email": "swierczekraf@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "rafalswierczek\\NumeralSystem\\": "src/"
+        }
+    }
+}
